@@ -1,3 +1,9 @@
+### Useful app to help you manage your tasks.
+
+![sample](https://github.com/user-attachments/assets/9554ac25-7227-423a-a405-53ef95472be0)
+
+##
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

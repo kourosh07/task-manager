@@ -1,4 +1,8 @@
-### Useful app to help you manage your tasks.
+## Task manager
+
+Useful app to help you manage your tasks.
+
+## Demo
 
 ![sample](https://github.com/user-attachments/assets/9554ac25-7227-423a-a405-53ef95472be0)
 

@@ -13,5 +13,8 @@ This project is built with [Create React App](https://github.com/facebook/create
 ### Prerequisites
 
 Ensure you have the following installed:
+
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation

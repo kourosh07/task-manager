@@ -24,3 +24,10 @@ Clone the repository:
 git clone https://github.com/your-username/task-manager.git
 cd task-manager
 ```
+
+Install dependencies:
+```sh
+npm install
+# or
+yarn install
+```

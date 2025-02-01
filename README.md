@@ -33,3 +33,13 @@ yarn install
 ```
 
 ### Running the Application
+
+
+Start the development server:
+```sh
+npm start
+# or
+yarn start
+```
+
+

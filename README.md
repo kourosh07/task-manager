@@ -18,3 +18,9 @@ Ensure you have the following installed:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Installation
+
+Clone the repository:
+```sh
+git clone https://github.com/your-username/task-manager.git
+cd task-manager
+```

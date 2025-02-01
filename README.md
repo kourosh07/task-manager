@@ -31,3 +31,5 @@ npm install
 # or
 yarn install
 ```
+
+### Running the Application
